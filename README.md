@@ -60,7 +60,7 @@ My goal is to contribute to a collaborative IT team where I can continue learnin
 - Google IT Support Professional Certificate
 - Google Cybersecurity Professional Certificate
 - ISC2 Certified in Cybersecurity (CC)
-- Microsoft Learn
+- Microsoft Learn & Projects 
 - Udemy Hands-on Training (Windows Server, Microsoft 365, Intune & PowerShell)
 ---
 # Technical Skills Demonstrated
